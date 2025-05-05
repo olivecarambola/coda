@@ -34,3 +34,32 @@ nav.topbar {
 .topbar-menu a:hover {
   text-decoration: underline;
 }
+
+body {
+  background-color: #000;
+  color: #f0f0f0;
+}
+
+a {
+  color: #66ccff;
+}
+
+a:hover {
+  color: #99e6ff;
+}
+
+.site-header,
+.site-footer {
+  background-color: #111;
+  color: #f0f0f0;
+  border-color: #333;
+}
+
+.site-title,
+.topbar-menu a {
+  color: #f0f0f0;
+}
+
+.topbar-menu a:hover {
+  color: #66ccff;
+}
