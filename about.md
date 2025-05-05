@@ -1,7 +1,7 @@
 ---
 layout: page
-# title: Copyright Notice
 permalink: /about/
+show_title: false
 ---
 ## Copyright Notice
 
