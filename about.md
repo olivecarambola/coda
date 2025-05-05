@@ -3,7 +3,7 @@ layout: page
 # title: Copyright Notice
 permalink: /about/
 ---
-# Copyright Notice
+## Copyright Notice
 
 &copy; 2025 Olive & Carambola. All rights reserved.
 
