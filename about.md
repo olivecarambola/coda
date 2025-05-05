@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Copyright Notice
+# title: Copyright Notice
 permalink: /about/
 ---
+# Copyright Notice
 
 &copy; 2025 Olive & Carambola. All rights reserved.
 
@@ -12,4 +13,4 @@ This website and its content are provided "as is," and the owner makes no repres
 
 This website may occasionally feature materials created by third parties. Such materials are either used with permission, under license, or believed to be permissible under applicable laws (such as fair use). All third-party content remains the property of its respective owners.
 
-If you believe your rights have been violated or would like to request permission for use of any content, please contact [olivecarambola@gmail.com](mailto:olivecarambola@gmail.com)
+If you believe your rights have been violated or would like to request permission for use of any content, please contact [olivecarambola@gmail.com](mailto:olivecarambola@gmail.com).
