@@ -20,4 +20,5 @@ But you don't come back from that.
 You come back, but to something else.
 
 ![beginning 1](assets/images/beginning1.png)
+
 ![beginning 2](assets/images/beginning2.png)
