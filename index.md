@@ -9,4 +9,4 @@ Posts on this site do not contain AI-generated text or images. Unless, of course
 
 See [About](https://olivecarambola.github.io/logbook/about/) for more fair warnings.
 
-![home page qutoes](assets/images/homepagequote.png)
+![home page quotes](assets/images/homepagequote.png)
