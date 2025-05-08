@@ -7,4 +7,4 @@ Contains prose, poetry, fiction, quoted text, translated text, and credited imag
 
 Posts on this site do not contain AI-generated text or images. Unless, of course, David Foster Wallace or Kurt Vonnegut somehow had access to generative AI tools back in the day and it snuck in with the quotes. To be more precise, the original content in the posts on this site does not contain AI-generated text or images. I can't speak for the credited content.
 
-See [About](/about/) for more fair warnings.
+See [About](https://olivecarambola.github.io/logbook/about/) for more fair warnings.
