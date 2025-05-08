@@ -3,7 +3,11 @@ layout: page
 permalink: /about/
 show_title: false
 ---
-## Copyright Notice
+### Disclaimer
+
+Posts on this site may touch on sensitive topics such as mental health, self-harm, violence, and substance addiction. Reader discretion is advised.
+
+### Copyright Notice
 
 &copy; 2025 Olive & Carambola. All rights reserved.
 
