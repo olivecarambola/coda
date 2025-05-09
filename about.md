@@ -5,7 +5,7 @@ show_title: false
 ---
 ### Disclaimer
 
-Posts on this site may touch on sensitive topics such as mental health, self-harm, violence, and substance addiction. Reader discretion is advised.
+Posts on this site may contain explicit language or explore sensitive topics such as mental health, self-harm, violence, and substance addiction. Reader discretion is advised.
 
 ### Copyright Notice
 
