@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .secondary-topbar {
-  background-color: #0D0D0D;    /* background color of the secondary topbar */
+  background-color: #0D0D0D;     /* background color of the secondary topbar */
   border-top: 1px solid #333;
   border-bottom: 1px solid #333;
   margin-top: -2rem;
@@ -83,8 +83,9 @@ h1, h2, h3, h4, h5, h6 {
   .wrapper {
     display: flex;
     justify-content: flex-start;
-    flex-wrap: wrap;         /* allows wrapping if needed */
+    flex-wrap: wrap;
     padding: 0.5rem 1rem;
+    width: 100%;
   }
 
   .secondary-menu {
@@ -94,13 +95,14 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     gap: 1.5rem;
     flex-wrap: wrap;
+    width: 100%;
   }
 
   .secondary-menu li {
     display: inline;
   }
 
-  .secondary-menu a {            /* controls the font of the menu items on the secondary topbar */
+  .secondary-menu a {          /* controls the font of the menu items on the secondary topbar */
     text-decoration: none;
     color: #BDBDBD;              /* font color */
     font-weight: normal;         /* bold vs normal */
