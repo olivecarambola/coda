@@ -77,8 +77,8 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #111;
   border-top: 1px solid #333;
   border-bottom: 1px solid #333;
-  padding: 0.5rem 0;
-  margin-top: -1rem; /* Pull it closer to the top bar if needed */
+  padding: 0.25rem 0.25rem;   /* 0.5rem top and bottom, 0 left and right */
+  margin-top: -2rem;          /* Pull it closer to the top bar if needed */
 
   .wrapper {
     display: flex;
