@@ -77,12 +77,14 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #111;
   border-top: 1px solid #333;
   border-bottom: 1px solid #333;
-  padding: 0.25rem 0.25rem;   /* 0.5rem top and bottom, 0 left and right */
-  margin-top: -2rem;          /* Pull it closer to the top bar if needed */
+  margin-top: -2rem; /* adjust as needed */
+  width: 100%;
 
   .wrapper {
     display: flex;
     justify-content: flex-start;
+    flex-wrap: wrap; /* allows wrapping if needed */
+    padding: 0.5rem 1rem;
   }
 
   .secondary-menu {
@@ -91,6 +93,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
     display: flex;
     gap: 1.5rem;
+    flex-wrap: wrap;
   }
 
   .secondary-menu li {
