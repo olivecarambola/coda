@@ -79,17 +79,15 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid #333;
   margin-top: -2rem;
   width: 100%;
-  display: block;
+}
 
-  .wrapper {
-    max-width: 1000px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0.5rem 1rem;
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-  }
+.secondary-topbar .menu-wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 .secondary-menu {
@@ -115,3 +113,4 @@ h1, h2, h3, h4, h5, h6 {
 .secondary-menu a:hover {
   color: #66ccff;
 }
+
