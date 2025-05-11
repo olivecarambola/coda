@@ -77,39 +77,40 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #0D0D0D;
   border-top: 1px solid #333;
   border-bottom: 1px solid #333;
-  width: 100%;
   margin-top: -2rem;
-}
+  width: 100%;
 
-.secondary-topbar-inner {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0.5rem 1rem;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
+  /* inner container to match .wrapper-based spacing */
+  .secondary-topbar-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
 
-.secondary-menu {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  gap: 1.5rem;
-  flex-wrap: wrap;
-}
+  .secondary-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
 
-.secondary-menu li {
-  display: inline;
-}
+  .secondary-menu li {
+    display: inline;
+  }
 
-.secondary-menu a {
-  text-decoration: none;
-  color: #BDBDBD;
-  font-weight: normal;
-  font-size: 0.8rem;
-}
+  .secondary-menu a {
+    text-decoration: none;
+    color: #BDBDBD;
+    font-weight: normal;
+    font-size: 0.8rem;
+  }
 
-.secondary-menu a:hover {
-  color: #66ccff;
+  .secondary-menu a:hover {
+    color: #66ccff;
+  }
 }
