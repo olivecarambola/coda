@@ -79,38 +79,39 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid #333;
   margin-top: -2rem;
   width: 100%;
+  display: block;
 
-  /* inner container to match .wrapper-based spacing */
-  .secondary-topbar-inner {
-    max-width: 800px;
-    margin: 0 auto;
+  .wrapper {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 0.5rem 1rem;
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
   }
+}
 
-  .secondary-menu {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    gap: 1.5rem;
-    flex-wrap: wrap;
-  }
+.secondary-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
 
-  .secondary-menu li {
-    display: inline;
-  }
+.secondary-menu li {
+  display: inline;
+}
 
-  .secondary-menu a {
-    text-decoration: none;
-    color: #BDBDBD;
-    font-weight: normal;
-    font-size: 0.8rem;
-  }
+.secondary-menu a {
+  text-decoration: none;
+  color: #BDBDBD;
+  font-weight: normal;
+  font-size: 0.8rem;
+}
 
-  .secondary-menu a:hover {
-    color: #66ccff;
-  }
+.secondary-menu a:hover {
+  color: #66ccff;
 }
